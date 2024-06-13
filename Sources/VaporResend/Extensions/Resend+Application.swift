@@ -6,7 +6,7 @@
 //
 
 import Vapor
-import swift_resend
+import Resend
 
 extension Application {
     public struct Resend {
@@ -47,6 +47,9 @@ extension Application {
         }
     }
 
-    public var resend: Resend { .init(application: self) }
+    public var resend: ResendClient {
+        let resend = Resend(application: self)
+        return resend.client
+    }
 }
 
