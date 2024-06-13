@@ -18,7 +18,7 @@ let package = Package(
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
         .package(url: "https://github.com/vapor/vapor.git", from: "4.0.0"),
-                 .package(url: "../swift-resend", branch: "main"),
+        .package(url: "https://github.com/hsharghi/swift-resend.git", from: "1.0.0"),
     ],
     
     targets: [
