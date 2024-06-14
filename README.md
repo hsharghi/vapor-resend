@@ -12,10 +12,7 @@
     </a>
 </p>
 
-**VaporResend** is a wrapper for [SwiftResend](https://github.com/hsharghi/swift-resend.git) package to use for Vapor framework,
-to communicate with the [Resend](https://resend.com) email sending platform API.
-
-VaporResend is a wrapper for the [SwiftResend](https://github.com/hsharghi/swift-resend.git) package, 
+**VaporResend** is a wrapper for the [SwiftResend](https://github.com/hsharghi/swift-resend.git) package, 
 designed for use with the Vapor framework to communicate with the [Resend](https://resend.com) email sending platform API.
 
 
