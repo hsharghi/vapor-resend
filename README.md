@@ -57,3 +57,8 @@ func routes(_ app: Application) throws {
 ~~~~
 For full SDK documentation check out [SwiftResend](https://github.com/hsharghi/swift-resend.git) Package.
 
+
+## License
+
+This package is released under the MIT license. See [LICENSE](https://github.com/hsharghi/vapor-resend/blob/main/LICENSE) for details.
+
