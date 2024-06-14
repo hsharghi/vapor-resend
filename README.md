@@ -5,7 +5,7 @@
         <img src="http://img.shields.io/badge/Vapor-4-brightgreen.svg" alt="Vapor Logo">
     </a>
     <a href="https://swift.org">
-        <img src="http://img.shields.io/badge/Swift-5.7-brightgreen.svg" alt="Swift 5.7 Logo">
+        <img src="http://img.shields.io/badge/Swift-5.10-brightgreen.svg" alt="Swift 5.10 Logo">
     </a>
     <a href="https://raw.githubusercontent.com/lloople/vapor-maker-commands/main/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License">
