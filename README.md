@@ -38,7 +38,7 @@ Provide the `RESEND_API_KEY` environment variable for authentication.
 ## Usage
 
 ### Sending Emails
-Import the required modules and configure your routes:
+Import `VaporResend` modules and configure your routes:
 
 ~~~~swift
 import Vapor
