@@ -47,7 +47,7 @@ import VaporResend
 func routes(_ app: Application) throws {
     app.get("send") { req async throws -> String in
         let id = try await req.resend.emails.send(email: .init(from: .init(email: "hadi@domain.com", name: "Hadi"),
-                                            to: [.init(email: "john@apple.com")],
+                                            to: ["john@apple.com"],
                                             subject: "Sending email from Vapor",
                                            text: "Email sent using ResendVapor"))
         
