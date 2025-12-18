@@ -1,16 +1,11 @@
 # VaporResend
 
-<p align="center">
-    <a href="https://vapor.codes">
-        <img src="http://img.shields.io/badge/Vapor-4-brightgreen.svg" alt="Vapor Logo">
-    </a>
-    <a href="https://swift.org">
-        <img src="http://img.shields.io/badge/Swift-5.10-brightgreen.svg" alt="Swift 5.10 Logo">
-    </a>
-    <a href="https://raw.githubusercontent.com/lloople/vapor-maker-commands/main/LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License">
-    </a>
-</p>
+
+![Version](https://img.shields.io/github/v/release/hsharghi/vapor-resend)
+![](http://img.shields.io/badge/Vapor-4-brightgreen.svg)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fhsharghi%2Fvapor-resend%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/hsharghi/vapor-resend)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fhsharghi%2Fvapor-resend%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/hsharghi/vapor-resend)
+[![License](https://img.shields.io/packagist/l/patrickschur/language-detection.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 **VaporResend** is a wrapper for the [SwiftResend](https://github.com/hsharghi/swift-resend.git) package, 
 designed for use with the Vapor framework to communicate with the [Resend](https://resend.com) email sending platform API.
